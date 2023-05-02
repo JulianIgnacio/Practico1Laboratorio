@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\obj\Debug\Practico_1_Lab.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\obj\Debug\Practico_1_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\obj\Debug\Practico_1_Lab.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\bin\Debug\Practico_1_Lab.exe.config
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\bin\Debug\Practico_1_Lab.exe
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\bin\Debug\Practico_1_Lab.pdb
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\obj\Debug\Practico_1_Lab.exe
+C:\Users\monte\Documents\Tecnicatura\Practico_1_Lab\obj\Debug\Practico_1_Lab.pdb
