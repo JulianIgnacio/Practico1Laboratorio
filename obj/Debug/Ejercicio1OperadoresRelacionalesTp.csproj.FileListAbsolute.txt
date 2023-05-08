@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\bin\Debug\Ejercicio1OperadoresRelacionalesTp.exe.config
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\bin\Debug\Ejercicio1OperadoresRelacionalesTp.exe
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\bin\Debug\Ejercicio1OperadoresRelacionalesTp.pdb
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\obj\Debug\Ejercicio1OperadoresRelacionalesTp.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\obj\Debug\Ejercicio1OperadoresRelacionalesTp.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\obj\Debug\Ejercicio1OperadoresRelacionalesTp.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\obj\Debug\Ejercicio1OperadoresRelacionalesTp.exe
+C:\Users\monte\Documents\Tecnicatura\Ejercicio1OperadoresRelacionalesTp\obj\Debug\Ejercicio1OperadoresRelacionalesTp.pdb
