@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\bin\Debug\EjercicioOpLogicos-Relacionales.exe.config
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\bin\Debug\EjercicioOpLogicos-Relacionales.exe
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\bin\Debug\EjercicioOpLogicos-Relacionales.pdb
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\obj\Debug\EjercicioOpLogicos-Relacionales.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\obj\Debug\EjercicioOpLogicos-Relacionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\obj\Debug\EjercicioOpLogicos-Relacionales.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\obj\Debug\EjercicioOpLogicos-Relacionales.exe
+C:\Users\monte\Documents\Tecnicatura\EjercicioOpLogicos-Relacionales\obj\Debug\EjercicioOpLogicos-Relacionales.pdb
