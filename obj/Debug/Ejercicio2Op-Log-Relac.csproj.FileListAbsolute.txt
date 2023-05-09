@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\bin\Debug\Ejercicio2Op-Log-Relac.exe.config
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\bin\Debug\Ejercicio2Op-Log-Relac.exe
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\bin\Debug\Ejercicio2Op-Log-Relac.pdb
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\obj\Debug\Ejercicio2Op-Log-Relac.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\obj\Debug\Ejercicio2Op-Log-Relac.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\obj\Debug\Ejercicio2Op-Log-Relac.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\obj\Debug\Ejercicio2Op-Log-Relac.exe
+C:\Users\monte\Documents\Tecnicatura\Ejercicio2Op-Log-Relac\obj\Debug\Ejercicio2Op-Log-Relac.pdb
